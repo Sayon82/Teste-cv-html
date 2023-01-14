@@ -1,0 +1,66 @@
+body{
+    background-color: gray;
+}
+
+.gautgauc{
+    background-color: rgb(42, 182, 61);
+    width: 35%;
+    
+    
+  
+
+}
+.page{
+    width: 780px;
+    margin: auto ;
+    font-size: 16px;
+    border: 3px solid blue;
+    box-shadow: 2px 3px 4px black;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.photo img{
+    width: 80%;
+   
+}
+
+h2{
+    font-size: 20px;
+    color: beige;
+    background-color: forestgreen;
+    margin-left: -11%;
+    
+   
+   
+}
+.infogauche{
+    margin-left: 10%;
+}
+.gauc{
+    margin-left: 10%;
+
+}
+
+
+
+
+/*Droite*/
+
+.pp{
+    background-color: rgb(255, 255, 255);
+    color: rgb(42, 182, 61);
+    width: 240px;
+    height: 5px;
+    margin-top: -22px;
+}
+
+.ppp{
+    background-color: rgb(255, 255, 255);
+    color: rgb(42, 182, 61);
+    width: 240px;
+    height: 5px;
+    margin-top: -3px;
+}
+
+
